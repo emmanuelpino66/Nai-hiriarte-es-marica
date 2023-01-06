@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://enchanting-custard-d1f331.netlify.app/sitemap-index.xml
